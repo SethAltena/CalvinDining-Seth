@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.calvin.kpb23students.calvindining.fragments.About">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="The Calvin Dining Hall App aims to bring you all the necessary info you need about the food at Calvin College. Use it to find out the meals being served today, keep track of your meals, and even take part in polls to decide what will be served in the future! We hope you enjoy using out app."
+            android:layout_width="362dp"
+            android:layout_height="108dp"
+            android:id="@+id/textView3"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp" />
+    </RelativeLayout>
+
+</FrameLayout>

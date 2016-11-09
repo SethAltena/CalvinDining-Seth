@@ -1,0 +1,319 @@
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.calvin.kpb23students.calvindining.fragments.Hours">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="700dp">
+
+            <TextView
+                android:text="Commons:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView13"
+                android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+            <TextView
+                android:text="Monday - Thursday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView12"
+                android:layout_below="@+id/textView13"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Hot Breakfast - 7:15am - 9:00am"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView14"
+                android:layout_below="@+id/textView12"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="20dp" />
+
+            <TextView
+                android:text="Continental Breakfast - 9:00am - 10:30am"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView14"
+                android:layout_alignStart="@+id/textView14"
+                android:id="@+id/textView15" />
+
+            <TextView
+                android:text="Lunch - 11:00am - 2:00pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView15"
+                android:layout_alignStart="@+id/textView15"
+                android:id="@+id/textView19" />
+
+            <TextView
+            android:text="Piazza and Salad Bar - 2:00pm - 4:45pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView19"
+                android:layout_alignStart="@+id/textView19"
+                android:id="@+id/textView20" />
+
+            <TextView
+                android:text="Dinner - 4:45pm - 6:00pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView20"
+                android:layout_alignStart="@+id/textView20"
+                android:id="@+id/textView21" />
+
+            <TextView
+                android:text="Friday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView21"
+            android:layout_alignParentStart="true"
+            android:id="@+id/textView22"
+            android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+        <TextView
+            android:text="Hot Breakfast - 7:15am - 9:00am"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView22"
+            android:layout_alignStart="@+id/textView21"
+            android:id="@+id/textView23" />
+
+        <TextView
+            android:text="Continental Breakfast - 9:00am - 10:30am"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView23"
+            android:layout_alignStart="@+id/textView23"
+            android:id="@+id/textView24" />
+
+        <TextView
+            android:text="Lunch - 11:00am - 2:00pm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView24"
+            android:layout_alignStart="@+id/textView24"
+            android:id="@+id/textView25" />
+
+        <TextView
+            android:text="Dinner - Closed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView25"
+            android:layout_alignStart="@+id/textView25"
+            android:id="@+id/textView26" />
+
+        <TextView
+            android:text="Saturday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView26"
+            android:layout_alignParentStart="true"
+            android:id="@+id/textView27"
+            android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+        <TextView
+            android:text="Closed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView27"
+            android:layout_alignEnd="@+id/textView27"
+            android:id="@+id/textView28"
+            android:layout_alignStart="@+id/textView26" />
+
+        <TextView
+            android:text="Sunday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView28"
+            android:layout_alignParentStart="true"
+            android:id="@+id/textView30"
+            android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+        <TextView
+            android:text="Continental Breakfast - 8:30am - 11:30am"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView30"
+            android:layout_alignStart="@+id/textView26"
+            android:id="@+id/textView31"
+            android:layout_alignEnd="@+id/textView24" />
+
+        <TextView
+            android:text="Lunch - 11:45am - 1:30pm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView31"
+            android:layout_alignStart="@+id/textView31"
+            android:id="@+id/textView32" />
+
+        <TextView
+            android:text="Dinner - 5:00pm - 7:00pm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView32"
+            android:id="@+id/textView33"
+            android:layout_alignEnd="@+id/textView21"
+            android:layout_alignStart="@+id/textView32" />
+
+            <TextView
+                android:text="Knollcrest:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView34"
+                android:layout_below="@+id/textView33"
+                android:layout_alignParentStart="true"
+                android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+            <TextView
+                android:text="Monday - Friday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView34"
+                android:layout_alignParentStart="true"
+                android:id="@+id/textView36"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Lunch - 11:30am - 1:30pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView36"
+                android:layout_alignStart="@+id/textView33"
+                android:id="@+id/textView37" />
+
+            <TextView
+                android:text="Dinner - 5:00pm - 7:00pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView37"
+                android:layout_alignStart="@+id/textView37"
+                android:id="@+id/textview38" />
+
+            <TextView
+                android:text="Saturday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textview38"
+                android:layout_alignParentStart="true"
+                android:id="@+id/textView39"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Continental Breakfast - 8:30am - 10:00am"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView39"
+                android:layout_alignStart="@+id/textview38"
+                android:id="@+id/textView40" />
+
+            <TextView
+                android:text="Lunch - 11:30am - 1:30pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView40"
+                android:layout_alignStart="@+id/textView40"
+                android:id="@+id/textView41" />
+
+            <TextView
+                android:text="Dinner - 4:45pm - 6:15pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView41"
+                android:layout_alignStart="@+id/textView41"
+                android:id="@+id/textView42" />
+
+            <TextView
+                android:text="Sunday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView42"
+                android:layout_alignParentStart="true"
+                android:id="@+id/textView43"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Closed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView43"
+                android:layout_alignStart="@+id/textView42"
+                android:id="@+id/textView44" />
+
+            <TextView
+                android:text="Uppercrust:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView49"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:layout_below="@+id/textView44"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:text="Monday - Friday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView49"
+                android:id="@+id/textView50"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Sack Lunch Pick-Up - 7:15am - 10:30am"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView50"
+                android:layout_alignStart="@+id/textView44"
+                android:id="@+id/textView51" />
+
+            <TextView
+                android:text="Saturday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView52"
+                android:layout_alignParentStart="true"
+                android:id="@+id/textView53"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Closed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView53"
+                android:layout_alignStart="@+id/textView52"
+                android:id="@+id/textView54" />
+
+            <TextView
+                android:text="Sunday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView54"
+                android:layout_alignParentStart="true"
+                android:id="@+id/textView57"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+            <TextView
+                android:text="Deli Hours - 5:00pm - 7:00pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView57"
+                android:layout_alignStart="@+id/textView54"
+                android:id="@+id/textView58" />
+
+            <TextView
+                android:text="Deli Hours - 11:00am - 8:00pm (5:00pm Friday)"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView52"
+                android:layout_below="@+id/textView51"
+                android:layout_alignStart="@+id/textView51" />
+        </RelativeLayout>
+    </ScrollView>
+
+</FrameLayout>

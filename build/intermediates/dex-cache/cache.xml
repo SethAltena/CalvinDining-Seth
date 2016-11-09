@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="10c7604e6c0d8247081c3d3e9082fa7c71162498">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a9ca6c10042eda214095aeaca930ff6e10a6a9de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_113f2e7d153058f7ff07941e3eadb58ae60691b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_7da7f24ffdd7b7f02b88cf5f4a5e35078938f79a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_29f797855a8c9873ff7f3ac7793c9101ac341c62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_30e54719ba103f1e2bdbf460c979873713f83f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f8416d0e0f5fee96121b4090989e6bfed25bb4f">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_68aa97fa98d97fff8b4af83badce9cc60e326143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7b23d91165daefb3161b98eddb7f5cb2d7785d78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_81ae161937175ba26897fc16f9a7a1a06a383744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_c723a6c968e67eada7e38baae2b77cb9fdcccc8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_81163fb69abd55f5b3550ef2b09e64d18b615092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\.gradle\caches\modules-2\files-2.1\com.squareup.moshi\moshi\1.2.0\c27dff1588c45efcff2e07c29e9d148ee707da29\moshi-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c27dff1588c45efcff2e07c29e9d148ee707da29">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\moshi-1.2.0_b33bd17d5e19cae81860d9368c9e412ad172c357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_47a18fba9ca03e85ccf51d89538775d948e50dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aab232929105fc474e7aa20f3df06bc163755e96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_88542697b892bcd8044430562075e45f3dc2fff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-moshi\2.1.0\9cf9b3171c839a49b1924303105e8b4e57b497e8\converter-moshi-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cf9b3171c839a49b1924303105e8b4e57b497e8">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-moshi-2.1.0_f815f2fcb642e332a5b0c0bf49adcfa9d47e272a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5d65a71d2908596d281234b2852c6e51f8121682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_de1fc40c3db13f65bb5018de4162c7ef197dfa81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_0ea34eeea3f737079a8b0ca50903d199cd2e1aa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_6c99753b0d8d426a84802f8d9c2235b7c4c52e14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_064842dbd4121fccac9859c36934f78a2798e7e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_8ae8a519cbc783a4b57f955eb754438d4977e00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f283585fe4664a027703e2628d150a59d4fdc269\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1b1c6f2a1cc3b02e7a7af417fcdf6bed8f636d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_6c565b16b28c8549c3112cb59b612dff94ceb460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seth\.gradle\caches\modules-2\files-2.1\org.threeten\threetenbp\1.3.2\6ef0f1feae9c5b5cce4b3478e8f1541d1c86ec2a\threetenbp-1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef0f1feae9c5b5cce4b3478e8f1541d1c86ec2a">
+        <dex dex="C:\Users\Seth\AndroidStudioProjects\CalvinDining-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\threetenbp-1.3.2_9547b46f218f654ea6c0d22cb979b2e685ffc848\classes.dex" />
+    </item>
+
+</items>

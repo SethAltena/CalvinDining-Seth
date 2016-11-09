@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edu.calvin.kpb23students.calvindining.fragments.DailyView.TimeLabel xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/beginTime"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <TextView
+        android:text="description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/description"
+        android:layout_below="@+id/name"
+        android:layout_toEndOf="@+id/beginTime"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <TextView
+        android:text="name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <TextView
+        android:text="End"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/endTime"
+        android:layout_below="@+id/description"
+        android:layout_alignParentStart="true"
+        android:textColor="?android:attr/textColorPrimary" />
+</edu.calvin.kpb23students.calvindining.fragments.DailyView.TimeLabel>
